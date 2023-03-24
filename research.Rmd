@@ -4,6 +4,9 @@ title: "Research Projects"
 
 I am currently working on two projects:
 
-# Ignorome finder 
+## Ignorome finder 
+Here's a fun GIF I made using `gganimate` that briefly explains my work
+![](HLTP.gif)
 
-# Concise Ranked Functional Enrichment method
+## Concise Ranked Functional Enrichment method
+Work in progress...
