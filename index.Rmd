@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "An Phan's personal website"
 ---
 
-Hello, Website!
+Welcome to my digital space! You can find out anything (but private) about me!
