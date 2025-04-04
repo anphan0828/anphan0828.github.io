@@ -5,8 +5,8 @@ title: "Research Projects"
 I am currently working on two projects:
 
 ## IgnoroMeNot: Prioritizing under-annotated proteins for literature curation
-Here's a table listing potential publications on under-annotated human proteins. These proteins currently do not have any Gene Ontology annotations in UniProt (as of Feb 2025)
-![](HLTP.gif)
+Here's a table listing potential publications on under-annotated human proteins. These proteins currently do not have any Gene Ontology annotations in UniProt (as of Feb 2025). Note that there are false positives where the publications are not actually about that protein, but due to a false alias match.
+
 ```{r echo=FALSE}
 library(knitr)
 library(DT)
@@ -14,7 +14,5 @@ data <- read.delim("potential_pubs.tsv",header=TRUE,sep="\t")
 DT::datatable(data)
 ```
 
-![](potential_pubs.tsv)
-
 ## Concise List Enrichment Analysis using R (CLEAR)
-
+Work in progress...
