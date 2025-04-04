@@ -4,9 +4,10 @@ title: "Research Projects"
 
 I am currently working on two projects:
 
-## Ignorome finder 
-Here's a fun GIF I made using `gganimate` that briefly explains my work
+## IgnoroMeNot: Prioritizing under-annotated proteins for literature curation
+Here's a table listing potential publications on under-annotated human proteins. These proteins currently do not have any Gene Ontology annotations in UniProt (as of Feb 2025)
 ![](HLTP.gif)
+![](potential_pubs.tsv)
 
-## Concise Ranked Functional Enrichment method
-Work in progress...
+## Concise List Enrichment Analysis using R (CLEAR)
+
